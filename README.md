@@ -1,4 +1,4 @@
-# claude-skills
+# personal-skills
 
 Personal [Claude Code](https://claude.com/claude-code) skills.
 
@@ -9,8 +9,8 @@ Personal [Claude Code](https://claude.com/claude-code) skills.
 ## Install
 
 ```bash
-git clone https://github.com/dreamtalen/claude-skills.git
-cp -r claude-skills/raise-the-bar ~/.claude/skills/
+git clone https://github.com/dreamtalen/personal-skills.git
+cp -r personal-skills/raise-the-bar ~/.claude/skills/
 ```
 
 Or per project: copy the folder to `<repo>/.claude/skills/`.
